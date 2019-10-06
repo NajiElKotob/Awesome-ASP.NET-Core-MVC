@@ -22,5 +22,8 @@
   * [Session and app state in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state)
   * [Session State in ASP.NET Core and MVC Core](https://dzone.com/articles/session-state-in-aspnet-core-and-mvc-core)
 * Middleware
+  * [ASP.NET Core Middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.0)
   * [Write custom ASP.NET Core middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/write)
   * [Create a custom middleware pipeline using .NET Core](https://medium.com/@huzaifa.asif/create-a-custom-middleware-pipeline-using-net-core-c60fde242ad9)
+* Filters
+  * [Exploring ASP.NET Core Filters](https://www.dotnettricks.com/learn/aspnetcore/mvc-core-filters-real-world-exmaple)
