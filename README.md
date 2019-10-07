@@ -16,6 +16,8 @@
 ## Articles and Resources
 * About ASP.NET MVC
   * [Top 13 ASP.NET Core Features You Need to Know](https://stackify.com/asp-net-core-features/)
+* Static Files
+  * [Static files in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files)
 * Routing
   * [Routing to controller actions in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/routing)
 * State Management
