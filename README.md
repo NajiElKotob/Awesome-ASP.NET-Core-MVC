@@ -29,3 +29,7 @@
   * [Create a custom middleware pipeline using .NET Core](https://medium.com/@huzaifa.asif/create-a-custom-middleware-pipeline-using-net-core-c60fde242ad9)
 * Filters
   * [Exploring ASP.NET Core Filters](https://www.dotnettricks.com/learn/aspnetcore/mvc-core-filters-real-world-exmaple)
+* Error Handling
+  * [Handle errors in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/error-handling)
+* Logging
+  * [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging)
