@@ -34,5 +34,6 @@
   * [ASP.NET Core 3.0 Exception Handling (redgate)](https://www.red-gate.com/simple-talk/dotnet/net-development/asp-net-core-3-0-exception-handling/) - Dino Esposito
 * Identity
   * [Configure ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-configuration)
+  * [Facebook, Google, and external provider authentication in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/)
 * Logging
   * [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging)
