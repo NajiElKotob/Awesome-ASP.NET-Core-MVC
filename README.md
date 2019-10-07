@@ -31,6 +31,7 @@
   * [Exploring ASP.NET Core Filters](https://www.dotnettricks.com/learn/aspnetcore/mvc-core-filters-real-world-exmaple)
 * Error Handling
   * [Handle errors in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/error-handling)
+  * [ASP.NET Core 3.0 Exception Handling (redgate)](https://www.red-gate.com/simple-talk/dotnet/net-development/asp-net-core-3-0-exception-handling/) - Dino Esposito
 * Identity
   * [Configure ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-configuration)
 * Logging
