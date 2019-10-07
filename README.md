@@ -31,5 +31,7 @@
   * [Exploring ASP.NET Core Filters](https://www.dotnettricks.com/learn/aspnetcore/mvc-core-filters-real-world-exmaple)
 * Error Handling
   * [Handle errors in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/error-handling)
+* Identity
+  * [Configure ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-configuration)
 * Logging
   * [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging)
