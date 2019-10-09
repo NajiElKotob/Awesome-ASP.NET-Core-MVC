@@ -19,6 +19,7 @@
 * Static Files
   * [Static files in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files) - app.UseDefaultFiles, app.UseStaticFiles, wwwroot, etc.
 * Views
+  * [Layout in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/layout?view=aspnetcore-3.0) - Layout, ViewStart, Sections
   * [Partial views in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/partial)
 * Routing
   * [Routing to controller actions in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/routing)
