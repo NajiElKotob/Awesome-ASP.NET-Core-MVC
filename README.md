@@ -42,3 +42,5 @@
   * [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging)
 * CSharp
   * [When To Use IEnumerable, ICollection, IList And List](https://www.claudiobernasconi.ch/2013/07/22/when-to-use-ienumerable-icollection-ilist-and-list/)
+* Deployment and Hosting
+  * [Try Azure App Service](http://tryappservice.azure.com) - Quickly and easily build web and mobile apps for any platform or device with Azure App Service.
