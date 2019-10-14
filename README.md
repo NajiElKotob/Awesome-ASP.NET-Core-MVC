@@ -21,6 +21,9 @@
 * Views
   * [Layout in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/layout?view=aspnetcore-3.0) - Layout, ViewStart, Sections
   * [Partial views in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/partial)
+* Tag Helpers
+  * [Tag Helpers in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro)
+  * [The ASP.NET Core Form Tag Helpers Cheat Sheet](https://jonhilton.net/aspnet-core-forms-cheat-sheet/)
 * Routing
   * [Routing to controller actions in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/routing)
 * State Management
@@ -38,6 +41,8 @@
 * Identity
   * [Configure ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-configuration)
   * [Facebook, Google, and external provider authentication in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/)
+* Bundling and Minification
+  * [Bundle and minify static assets in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/client-side/bundling-and-minification)
 * Logging
   * [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging)
 * CSharp
