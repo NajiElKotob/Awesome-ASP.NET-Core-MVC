@@ -7,7 +7,7 @@
 ## Tutorials
 * [Learn ASP.NET](https://dotnet.microsoft.com/learn/aspnet) - Free courses, tutorials, videos, and more for learning web development with ASP.NET.
 * [Create a web app with ASP.NET Core MVC](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/)
-* [Get started with EF Core in an ASP.NET MVC web app](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-2.2)
+* [Get started with EF Core in an ASP.NET MVC web app](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-2.2) :star:
 * [Create a Razor Pages web app with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/)
 * [Build your first Blazor app](https://docs.microsoft.com/en-us/aspnet/core/tutorials/build-your-first-blazor-app)
 * [Create a web API with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api)
