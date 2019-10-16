@@ -17,6 +17,7 @@
 ## Articles and Resources
 * About ASP.NET MVC
   * [Top 13 ASP.NET Core Features You Need to Know](https://stackify.com/asp-net-core-features/)
+  * [How Does Razor Pages Differ From MVC In ASP.NET Core?](https://exceptionnotfound.net/razor-pages-how-does-it-differ-from-mvc-in-asp-net-core/)
 * Static Files
   * [Static files in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files) - app.UseDefaultFiles, app.UseStaticFiles, wwwroot, etc.
 * Views
@@ -51,3 +52,4 @@
   * [When To Use IEnumerable, ICollection, IList And List](https://www.claudiobernasconi.ch/2013/07/22/when-to-use-ienumerable-icollection-ilist-and-list/)
 * Deployment and Hosting
   * [Try Azure App Service](http://tryappservice.azure.com) - Quickly and easily build web and mobile apps for any platform or device with Azure App Service.
+  * [How to Deploy ASP.NET Core to IIS & How ASP.NET Core Hosting Works](https://stackify.com/how-to-deploy-asp-net-core-to-iis/)
