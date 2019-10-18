@@ -14,7 +14,7 @@
 * [Get started with ASP.NET Core SignalR](https://docs.microsoft.com/en-us/aspnet/core/tutorials/signalr)
 * [Create a gRPC client and server in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/grpc/grpc-start)
 
-## Articles and Resources
+## ASP.NET MVC
 * About ASP.NET MVC
   * [Top 13 ASP.NET Core Features You Need to Know](https://stackify.com/asp-net-core-features/)
   * [How Does Razor Pages Differ From MVC In ASP.NET Core?](https://exceptionnotfound.net/razor-pages-how-does-it-differ-from-mvc-in-asp-net-core/)
@@ -53,3 +53,6 @@
 * Deployment and Hosting
   * [Try Azure App Service](http://tryappservice.azure.com) - Quickly and easily build web and mobile apps for any platform or device with Azure App Service.
   * [How to Deploy ASP.NET Core to IIS & How ASP.NET Core Hosting Works](https://stackify.com/how-to-deploy-asp-net-core-to-iis/)
+  
+## Web API
+* [REST API concepts and examples (Video)](https://www.youtube.com/watch?v=7YcW25PHnAA)
