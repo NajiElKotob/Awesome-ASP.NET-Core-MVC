@@ -57,3 +57,7 @@
   
 ## Web API
 * [REST API concepts and examples (Video)](https://www.youtube.com/watch?v=7YcW25PHnAA)
+* Tools
+  * [Insomnia](https://insomnia.rest/) - Debug APIs like a human, not a robot
+  * [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
+  * [curl](https://curl.haxx.se/) - command line tool and library for transferring data with URLs
