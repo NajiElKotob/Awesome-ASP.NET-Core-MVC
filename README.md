@@ -61,3 +61,6 @@
   * [Insomnia](https://insomnia.rest/) - Debug APIs like a human, not a robot
   * [Postman](https://www.getpostman.com/) - The Collaboration Platform for API Development
   * [curl](https://curl.haxx.se/) - command line tool and library for transferring data with URLs
+
+## Web Tutorials, References and Resources
+* [Awesome Web](https://github.com/NajiElKotob/Awesome-Web)
