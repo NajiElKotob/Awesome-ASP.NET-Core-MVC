@@ -14,6 +14,9 @@
 * [Get started with ASP.NET Core SignalR](https://docs.microsoft.com/en-us/aspnet/core/tutorials/signalr)
 * [Create a gRPC client and server in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/grpc/grpc-start)
 
+### YouTube Tutorials
+* [ASP.NET core tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) - kudvenkat
+
 ## ASP.NET MVC
 * About ASP.NET MVC
   * [Top 13 ASP.NET Core Features You Need to Know](https://stackify.com/asp-net-core-features/)
