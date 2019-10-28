@@ -50,6 +50,8 @@
   * [Safe storage of app secrets in development in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets)
 * Logging
   * [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging)
+  * [Logging in .NET Core 3.0 and Beyond - Configuration, Setup, and More (Video)](https://www.youtube.com/watch?v=oXNslgIXIbQ) - 
+IAmTimCorey
 * Performance
   * [Response caching in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/response?view=aspnetcore-3.0)
   * [Bundle and minify static assets in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/client-side/bundling-and-minification)
