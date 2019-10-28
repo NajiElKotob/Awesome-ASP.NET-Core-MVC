@@ -16,7 +16,7 @@
 
 ### YouTube Tutorials
 * [ASP.NET core tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) - kudvenkat
-
+* [.NET Core vs .NET Framework - What's the difference?](https://www.youtube.com/watch?v=79UWvR734wI) - IAmTimCorey
 ## ASP.NET MVC
 * About ASP.NET MVC
   * [Top 13 ASP.NET Core Features You Need to Know](https://stackify.com/asp-net-core-features/)
