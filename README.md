@@ -49,9 +49,10 @@
   * [Facebook, Google, and external provider authentication in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/)
   * [Safe storage of app secrets in development in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets)
 * Logging
-  * [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging)
+  * [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging) - Microsoft Docs
   * [Logging in .NET Core 3.0 and Beyond - Configuration, Setup, and More (Video)](https://www.youtube.com/watch?v=oXNslgIXIbQ) - 
 IAmTimCorey
+  * [Logging in ASP .NET Core](https://wakeupandcode.com/logging-in-asp-net-core/) - Wake Up And Code!  
   * Third-party Libraries
     * [NLog](https://nlog-project.org/) - Flexible & free open-source logging for .NET
     * [Serilog](https://serilog.net/) - Flexible, structured events — log file convenience
