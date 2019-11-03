@@ -31,6 +31,7 @@
   * [Partial views in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/partial)
 
 ### Razor
+* [Razor syntax reference for ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-3.0) - Microsoft Docs
 * [Introduction to ASP.NET Web Programming Using the Razor Syntax (C#)](https://docs.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-c)
 * [ASP.NET MVC 3: Razor’s @: and <text> syntax](https://weblogs.asp.net/scottgu/asp-net-mvc-3-razor-s-and-lt-text-gt-syntax)
 * [ASP.NET Core MVC Anchor Tag Helper](https://www.davepaquette.com/archive/2015/06/01/mvc-6-anchor-tag-helper.aspx)
