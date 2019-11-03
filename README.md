@@ -36,7 +36,8 @@
 * [ASP.NET MVC 3: Razor’s @: and <text> syntax](https://weblogs.asp.net/scottgu/asp-net-mvc-3-razor-s-and-lt-text-gt-syntax)
 * [ASP.NET Core MVC Anchor Tag Helper](https://www.davepaquette.com/archive/2015/06/01/mvc-6-anchor-tag-helper.aspx)
 * [TutorialTeacher - Razor](http://www.tutorialsteacher.com/mvc/razor-syntax)
-
+* [Using @functions in an ASP.NET page with Razor Syntax](https://blogs.msdn.microsoft.com/timlee/2010/07/30/using-functions-in-an-asp-net-page-with-razor-syntax/) - Microsoft Dev
+ 
 ### Tag Helpers
 * [Tag Helpers in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro)
 * [The ASP.NET Core Form Tag Helpers Cheat Sheet](https://jonhilton.net/aspnet-core-forms-cheat-sheet/)
