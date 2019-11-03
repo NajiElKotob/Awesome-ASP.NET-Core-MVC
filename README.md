@@ -17,55 +17,74 @@
 ### YouTube Tutorials
 * [ASP.NET core tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) - kudvenkat
 * [.NET Core vs .NET Framework - What's the difference?](https://www.youtube.com/watch?v=79UWvR734wI) - IAmTimCorey
+
 ## ASP.NET MVC
-* About ASP.NET MVC
-  * [Top 13 ASP.NET Core Features You Need to Know](https://stackify.com/asp-net-core-features/)
-  * [How Does Razor Pages Differ From MVC In ASP.NET Core?](https://exceptionnotfound.net/razor-pages-how-does-it-differ-from-mvc-in-asp-net-core/)
-* Static Files
-  * [Static files in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files) - app.UseDefaultFiles, app.UseStaticFiles, wwwroot, etc.
-* Views
-  * [Layout in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/layout?view=aspnetcore-3.0) - Layout, ViewStart, Sections
+### About ASP.NET MVC
+* [Top 13 ASP.NET Core Features You Need to Know](https://stackify.com/asp-net-core-features/)
+* [How Does Razor Pages Differ From MVC In ASP.NET Core?](https://exceptionnotfound.net/razor-pages-how-does-it-differ-from-mvc-in-asp-net-core/)
+
+### Static Files
+* [Static files in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/static-files) - app.UseDefaultFiles, app.UseStaticFiles, wwwroot, etc.
+
+### Views
+* [Layout in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/layout?view=aspnetcore-3.0) - Layout, ViewStart, Sections
   * [Partial views in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/partial)
-* Tag Helpers
-  * [Tag Helpers in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro)
-  * [The ASP.NET Core Form Tag Helpers Cheat Sheet](https://jonhilton.net/aspnet-core-forms-cheat-sheet/)
-* Routing
+
+### Razor
+* [Introduction to ASP.NET Web Programming Using the Razor Syntax (C#)](https://docs.microsoft.com/en-us/aspnet/web-pages/overview/getting-started/introducing-razor-syntax-c)
+* [ASP.NET MVC 3: Razor’s @: and <text> syntax](https://weblogs.asp.net/scottgu/asp-net-mvc-3-razor-s-and-lt-text-gt-syntax)
+* [ASP.NET Core MVC Anchor Tag Helper](https://www.davepaquette.com/archive/2015/06/01/mvc-6-anchor-tag-helper.aspx)
+* [TutorialTeacher - Razor](http://www.tutorialsteacher.com/mvc/razor-syntax)
+
+### Tag Helpers
+* [Tag Helpers in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/views/tag-helpers/intro)
+* [The ASP.NET Core Form Tag Helpers Cheat Sheet](https://jonhilton.net/aspnet-core-forms-cheat-sheet/)
+
+### Routing
   * [Routing to controller actions in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/routing)
-* State Management
-  * [Session and app state in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state)
-  * [Session State in ASP.NET Core and MVC Core](https://dzone.com/articles/session-state-in-aspnet-core-and-mvc-core)
-* Middleware
+
+### State Management
+* [Session and app state in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/app-state)
+* [Session State in ASP.NET Core and MVC Core](https://dzone.com/articles/session-state-in-aspnet-core-and-mvc-core)
+
+### Middleware
   * [ASP.NET Core Middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/?view=aspnetcore-3.0)
   * [Write custom ASP.NET Core middleware](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/middleware/write)
   * [Create a custom middleware pipeline using .NET Core](https://medium.com/@huzaifa.asif/create-a-custom-middleware-pipeline-using-net-core-c60fde242ad9)
-* Filters
-  * [Exploring ASP.NET Core Filters](https://www.dotnettricks.com/learn/aspnetcore/mvc-core-filters-real-world-exmaple)
-* Error Handling
-  * [Handle errors in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/error-handling)
-  * [ASP.NET Core 3.0 Exception Handling (redgate)](https://www.red-gate.com/simple-talk/dotnet/net-development/asp-net-core-3-0-exception-handling/) - Dino Esposito
-* Identity
-  * [Configure ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-configuration)
-  * [Adding and Customizing Identity in ASP.NET Core (Video)](https://www.youtube.com/watch?v=GblxFZpR10w) - MasterVisualStudio
-  * [Facebook, Google, and external provider authentication in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/)
-* Secret Application Settings 
-  * [Safe storage of app secrets in development in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets) - Microsoft Docs
-  * [Your Web App Secrets in ASP .NET Core](https://wakeupandcode.com/your-web-app-secrets-in-asp-net-core/) - Wake Up And Code!
-* Logging
-  * [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging) - Microsoft Docs
-  * [Logging in .NET Core 3.0 and Beyond - Configuration, Setup, and More (Video)](https://www.youtube.com/watch?v=oXNslgIXIbQ) - 
+ 
+### Filters
+* [Exploring ASP.NET Core Filters](https://www.dotnettricks.com/learn/aspnetcore/mvc-core-filters-real-world-exmaple)
+
+### Error Handling
+* [Handle errors in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/error-handling)
+* [ASP.NET Core 3.0 Exception Handling (redgate)](https://www.red-gate.com/simple-talk/dotnet/net-development/asp-net-core-3-0-exception-handling/) - Dino Esposito
+
+### Identity
+* [Configure ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-configuration)
+* [Adding and Customizing Identity in ASP.NET Core (Video)](https://www.youtube.com/watch?v=GblxFZpR10w) - MasterVisualStudio
+* [Facebook, Google, and external provider authentication in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/)
+
+### Secret Application Settings 
+* [Safe storage of app secrets in development in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets) - Microsoft Docs
+* [Your Web App Secrets in ASP .NET Core](https://wakeupandcode.com/your-web-app-secrets-in-asp-net-core/) - Wake Up And Code!
+
+### Logging
+* [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging) - Microsoft Docs
+* [Logging in .NET Core 3.0 and Beyond - Configuration, Setup, and More (Video)](https://www.youtube.com/watch?v=oXNslgIXIbQ) - 
 IAmTimCorey
-  * [Logging in ASP .NET Core](https://wakeupandcode.com/logging-in-asp-net-core/) - Wake Up And Code!  
-  * Third-party Libraries
-    * [NLog](https://nlog-project.org/) - Flexible & free open-source logging for .NET
-    * [Serilog](https://serilog.net/) - Flexible, structured events — log file convenience
-* Performance
-  * [Response caching in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/response?view=aspnetcore-3.0)
-  * [Bundle and minify static assets in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/client-side/bundling-and-minification)
+* [Logging in ASP .NET Core](https://wakeupandcode.com/logging-in-asp-net-core/) - Wake Up And Code!  
+* Third-party Libraries
+  * [NLog](https://nlog-project.org/) - Flexible & free open-source logging for .NET
+  * [Serilog](https://serilog.net/) - Flexible, structured events — log file convenience
+### Performance
+* [Response caching in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/response?view=aspnetcore-3.0)
+* [Bundle and minify static assets in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/client-side/bundling-and-minification)
 * CSharp
   * [When To Use IEnumerable, ICollection, IList And List](https://www.claudiobernasconi.ch/2013/07/22/when-to-use-ienumerable-icollection-ilist-and-list/)
-* Deployment and Hosting
-  * [Try Azure App Service](http://tryappservice.azure.com) - Quickly and easily build web and mobile apps for any platform or device with Azure App Service.
-  * [How to Deploy ASP.NET Core to IIS & How ASP.NET Core Hosting Works](https://stackify.com/how-to-deploy-asp-net-core-to-iis/)
+  
+###  Deployment and Hosting
+* [Try Azure App Service](http://tryappservice.azure.com) - Quickly and easily build web and mobile apps for any platform or device with Azure App Service.
+* [How to Deploy ASP.NET Core to IIS & How ASP.NET Core Hosting Works](https://stackify.com/how-to-deploy-asp-net-core-to-iis/)
   
 ## Web API
 * [REST API concepts and examples (Video)](https://www.youtube.com/watch?v=7YcW25PHnAA)
