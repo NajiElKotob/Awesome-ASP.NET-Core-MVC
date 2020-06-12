@@ -89,6 +89,7 @@ IAmTimCorey
 * [How to Deploy ASP.NET Core to IIS & How ASP.NET Core Hosting Works](https://stackify.com/how-to-deploy-asp-net-core-to-iis/)
   
 ## Web API
+* [.NET Core 3.1 MVC REST API - Full Course](https://www.youtube.com/watch?v=fmvcAzHpsk8) (Les Jackson, April 2020)
 * [REST API concepts and examples (Video)](https://www.youtube.com/watch?v=7YcW25PHnAA)
 * Tools
   * [Insomnia](https://insomnia.rest/) - Debug APIs like a human, not a robot
