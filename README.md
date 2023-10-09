@@ -65,7 +65,7 @@
 * [Configure ASP.NET Core Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity-configuration)
 * [Adding and Customizing Identity in ASP.NET Core (Video)](https://www.youtube.com/watch?v=GblxFZpR10w) - MasterVisualStudio
 * [Facebook, Google, and external provider authentication in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/social/)
-
+* [Let's Learn .NET: Auth and Identity 📺 ~2 hours](https://www.youtube.com/watch?v=SFLG-gStXC0) - dotNET
 ### Secret Application Settings 
 * [Safe storage of app secrets in development in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/security/app-secrets) - Microsoft Docs
 * [Your Web App Secrets in ASP .NET Core](https://wakeupandcode.com/your-web-app-secrets-in-asp-net-core/) - Wake Up And Code!
